@@ -4,7 +4,7 @@
 
 - 🌱 NonTech Guy doing Tech Thing as **Full Stack Web Developer**
 
-- 💬 Ask me about **HTML,CSS,JS,JQUERY,NODEJS,MONGODB,PYTHON,DJANGO,SQL**
+- 💬 Ask me about **HTML,CSS,JS,JQUERY,NODEJS,EJS,PYTHON,DJANGO,SQL**
 
 - 📫 How to reach me **rohitvajpayee2001@gmail.com**
 
@@ -19,9 +19,6 @@
  </a>
   <a href="https://expressjs.com" arget="blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40"/> 
- </a>
-   <a href="https://www.mongodb.com/" arget="blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
  </a>
     <a href="https://react.dev/" arget="blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> 
